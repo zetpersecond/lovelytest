@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x80B779F415a8F690a3001a0f093cFD75b688F3e8",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x80b779f415a8f690a3001a0f093cfd75b688f3e8",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Lovely Snowman",
+  "SYMBOL": "LVSM",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 1500000000000000,
+  "DISPLAY_COST": 0.0015,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/lovely-snowman",
+  "SHOW_BACKGROUND": true
+}
